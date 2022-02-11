@@ -402,4 +402,4 @@ Download a PDF version of this user manual by clicking on the **Download User Ma
 <img src = "./images/logout.png" width="300">
 </p>
 
-To log out from the application, go to the User Profile tab and click on the Logout option
+To log out from the application, go to the User Profile tab and click on the Logout option.

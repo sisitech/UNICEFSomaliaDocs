@@ -194,3 +194,212 @@ The weekly attendance chart shows a weekly attendance overview of an individual 
 </p>
 
 Incase of an emergency or need to follow up on a learner with their guardian, click on the **phone** icon to place a call.  
+
+##### Move Learners
+
+<p align="center">
+<img src = "./images/move-learners.png" width="300">
+</p>
+
+The Move Learners tab enables moving of learners from one class to another. Select learners to move to a different class and complete the move process. 
+
+<p align="center">
+<img src = "./images/move-learners-list.png" width="300">
+</p>
+
+<p align="center">
+<img src = "./images/move-learners-popup.png" width="300">
+</p>
+
+##### Promote Learners
+
+<p align="center">
+<img src = "./images/promote.png" width="300">
+</p>
+
+Graduate learners to the next grade at the end of the year. This feature works to promote all learners to the next grade once. **Be careful** when promoting learners.
+
+##### Teachers
+###### Add Teachers
+
+<p align="center">
+<img src = "./images/teachers.png" width="300">
+</p>
+
+As a headteacher / teacher admin, add a new teacher to your school and assign a class to mark attendance. 
+
+<p align="center">
+<img src = "./images/add-teacher.png" width="100">
+</p>
+
+Fill the teacher details and submit the information by clicking the **Add Teacher** button.
+
+<p align="center">
+<img src = "./images/teacher-list.png" width="300">
+</p>
+
+###### Edit Teachers
+
+<p align="center">
+<img src = "./images/edit-teacher.png" width="300">
+</p>
+
+Update the details of your exiting teacher by clicking the **Edit** button and updating your form. 
+
+<p align="center">
+<img src = "./images/update-teacher.png" width="300">
+</p>
+
+###### Deactivate Teachers
+
+Deactivate a teacher from the system by clicking on the **Deactivate** button.
+
+<p align="center">
+<img src = "./images/edit-teacher.png" width="300">
+</p>
+
+<p align="center">
+<img src = "./images/delete-teacher.png" width="300">
+</p>
+
+##### Classes
+
+###### Add Classes
+
+<p align="center">
+<img src = "./images/classes.png" width="300">
+</p>
+
+As a headteacher / teacher admin, you can easily add a new class to your school. 
+
+<p align="center">
+<img src = "./images/classes.png" width="300">
+</p>
+
+Click on the add button to fill in the details of the new class you want to add. 
+
+<p align="center">
+<img src = "./images/add-teacher.png" width="100">
+</p>
+
+<p align="center">
+<img src = "./images/add-class.png" width="300">
+</p>
+
+###### Edit Classes
+
+<p align="center">
+<img src = "./images/edit-class.png" width="300">
+</p>
+
+Update the details of your exiting classes by clicking the **Edit** button and updating your form. 
+
+
+###### Decativate Classes
+
+<p align="center">
+<img src = "./images/deactivate-class.png" width="300">
+</p>
+
+Deactivate a class from the system by clicking on the **Deactivate** button.
+
+##### Reports
+
+<p align="center">
+<img src = "./images/reports.png" width="300">
+</p>
+
+The Reports tab allows the head teacher to view an aggregated list of student attendance perfomance per class, based on gender. Head-teacher's can also view on a daily basis a list of often absent students from every class on a certain date and provide a reason for absence for missing school.
+
+###### View Absent Student Details
+
+<p align="center">
+<img src = "./images/absent-list.png" width="300">
+</p>
+
+A list of frequently absent student can be found at the bottom of the page. Provide a reason for absence for each learner to ensure adequate follow up with the guardian and other partners. 
+
+<p align="center">
+<img src = "./images/provide-reason.png" width="300">
+</p>
+
+<p align="center">
+<img src = "./images/reasons-absence.png" width="300">
+</p>
+
+##### Profile
+
+###### User Profile
+
+<p align="center">
+<img src = "./images/user-profile.png" width="300">
+</p>
+
+The user profile tab allows the user to change their password, view notifications, sync off-line attendance with the database, update the latest class list as well as logging out and accessing the help pages.
+
+###### Edit Password
+
+<p align="center">
+<img src = "./images/edit-password.png" width="300">
+</p>
+
+In the User Profile tab, click on the Edit Password option. This will provide fields to enter the current password and the new password. Enter the current password and the new password respectively and click on the Login button.
+
+###### Application Settings
+
+<p align="center">
+<img src = "./images/application-settings.png" width="300">
+</p>
+
+###### Attendance Status
+
+<p align="center">
+<img src = "./images/attendance-status.png" width="300">
+</p>
+
+A user can sync attendance data taken in off-line mode to the online database by navigating to the user profile tab and clicking “Attendance Status”.
+
+###### Update Learners List
+
+<p align="center">
+<img src = "./images/update-learners.png" width="300">
+</p>
+
+This enables a teacher to manually sync to the latest learners list in the school. Click on the **Download Latest Class List** button to sync with the latest list of student in your school.*** Do this incase you perform offline learner enrolment with different devices. ***
+
+###### Help & Support 
+
+<p align="center">
+<img src = "./images/help.png" width="300">
+</p>
+
+Access a list of frequently asked questions and
+a user manual with more information on how to operate the Onekana Digital Attendance System.
+
+###### Contact Us
+
+<p align="center">
+<img src = "./images/contact-us.png" width="300">
+</p>
+
+Click on the **Contact Us** button to get a form to submit any issues/queries and support questions and our team will respond promptly. 
+
+<p align="center">
+<img src = "./images/contact-support.png" width="300">
+</p>
+
+###### Download User Manual
+
+<p align="center">
+<img src = "./images/contact-us.png" width="300">
+</p>
+
+Download a PDF version of this user manual by clicking on the **Download User Manual** button. 
+
+###### Logout
+
+<p align="center">
+<img src = "./images/logout.png" width="300">
+</p>
+
+To log out from the application, go to the User Profile tab and click on the Logout option

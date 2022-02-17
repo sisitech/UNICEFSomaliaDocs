@@ -54,13 +54,3 @@ Onekana's type scale provides the typographic variety necessary for its app cont
 ## Shape
 ## Components
 ## Motion
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
-    body {
-        font-family: 'Prompt', sans-serif;
-    }
-    h1, h2{
-        color: #228cc9;
-    }
-</style>

@@ -27,7 +27,7 @@ The UI is dense and direct, with an emphasis on typography, color, and shape.
 ## Layout
 ## Colour
 
-Sometimes Onekana needs to show multiple infographics on a single screen, each with multiple sections. To do this, Onekana has adopted a color theme with one primary color, and five additional colors. This elaborate color theme allows Rally to present readable, distinct infographics.
+Sometimes Onekana needs to show multiple infographics on a single screen, each with multiple sections. To do this, Onekana has adopted a color theme with one primary color, and five additional colors. This elaborate color theme allows Onekana to present readable, distinct infographics.
 
 ![color](./images/colour.png)
 

@@ -14,6 +14,7 @@ The user’s manual consists of five sections:
 - Getting Started
 - Using The System
 - Reporting
+- Web Dashboard
 
 The **System Summary section** provides a general overview of the system. The summary outlines the uses of the system’s hardware and software requirements, system’s configuration, user access levels and system’s behavior in case of any contingencies. **Getting Started section** explains how to get Digital Attendance and install it on the device. The section presents briefly system menu. **Using The System section** provides a detailed description of system functions.**Reporting section** describes in what way information collected by the application are presented and how to access the information.
 
@@ -403,3 +404,238 @@ Download a PDF version of this user manual by clicking on the **Download User Ma
 </p>
 
 To log out from the application, go to the User Profile tab and click on the Logout option.
+
+## Web  Dashboard
+
+###### Login
+
+<p align="center">
+<img src = "./images/login-web.png" width="400">
+</p>
+
+Onekana Digital Attendance's dashboard is hosted at [Onekana Dashboard](https://onekana.naconek.ke/). Enter your login credentials to access the dashboard.
+###### Dashboard
+<p align="center">
+<img src = "./images/dashboard.png" width="800">
+</p>
+
+The dashboard consists of 7 naviagation items :- 
+
+| Item | Description |
+| :------ | :------ |
+| Home | Provides an overview of all the learner's enrolment and attendance depending on the access level of the user. This is represented by charts and graphs. |
+|Schools | Add a new school and view details of previously added schools|
+|Classes | Add a new class to a school and view details of previously added classes|
+|Teachers | Add a new teacher to a school and view details of previously added teachers. You can also reset the teachers password.|
+|Learners | Add a new learner to a school and view details of previously added learners.|
+|Reports | Generate enrolment and attendance reports as well as download Excel reports for offline use and data analysis.|
+|Settings | View the logged in user profile as well as change their password.|
+
+
+###### Home
+
+<p align="center">
+<img src = "./images/home-nav.png" width="200">
+</p>
+
+View a card summary of learner enrolment data by gender.  
+
+<p align="center">
+<img src = "./images/home1.png" width="800">
+</p>
+
+View a chart summary of monthly and annual attendance data.  
+
+<p align="center">
+<img src = "./images/home2.png" width="500">
+</p>
+
+View a chart summary of learner enrolment by class.  
+
+<p align="center">
+<img src = "./images/home3.png" width="500">
+</p>
+
+View a chart summary of learner enrolment data by gender.  
+
+<p align="center">
+<img src = "./images/home4.png" width="300">
+</p>
+
+###### Schools
+
+<p align="center">
+<img src = "./images/schools-nav.png" width="200">
+</p>
+
+
+Add details of a new school to add it to the Onekana dashboard.The details include :- 
+
+| Item | Required | Description |
+| :------ | :------ | :------ |
+|School Name | Yes | Provide the name of the school|
+|School's EMIS Code | Yes | Provide the school's unique EMIS code|
+|Phone Number| Yes | Provide the phone number to access the headteacher of the school|
+|Email Address| No | Provide the email address of the school |
+|School Category| No |Select between rural and urban |
+|School Type | No |Select between male, female and mixed |
+|School Sub County | No | Select the school's sub county |
+
+<p align="center">
+<img src = "./images/add-school.png" width="800">
+</p>
+
+View current schools details. Filter by sub county to search for your school. You can also export the summary of the data. 
+
+<p align="center">
+<img src = "./images/add-school2.png" width="800">
+</p>
+
+###### Classes
+
+<p align="center">
+<img src = "./images/classes-nav.png" width="200">
+</p>
+
+Add details of a new class to add it to the Onekana dashboard.The details include :- 
+
+| Item | Required | Description |
+| :------ | :------ | :------ |
+|Assign School | Yes | Search your school name |
+|Base Class | Yes | Add the standard grade / class i.e. 1,2,3 etc|
+|Stream | No | Add a description for your base class i.e. East, West etc|
+
+<p align="center">
+<img src = "./images/classes1.png" width="800">
+</p>
+
+View all the classes added to a school by filtering by school. You can also delete a class. 
+
+<p align="center">
+<img src = "./images/classes2.png" width="400">
+</p>
+
+###### Teachers
+
+<p align="center">
+<img src = "./images/teachers-nav.png" width="200">
+</p>
+
+Add details of a new teacher to add them to the Onekana dashboard.The details include :- 
+
+| Item | Required | Description |
+| :------ | :------ | :------ |
+|Assign School | Yes | Search your school name |
+|First Name | Yes | Teacher's first name |
+|Middle Name | No | Teacher's middle name|
+|Last Name | Yes | Teacher's last name|
+|Phone Number | Yes | Teacher's phone number|
+|Email | No | Teacher's email address|
+|Date of Birth | No | Teacher's date of birth|
+|Teacher Type | No | Select either TSC /Board|
+|TSC Number | No | Applies for TSC Type teachers|
+|Streams | No | Assign a stream/s to mark attendance|
+|Is School Admin | No | Check to assign teacher role to mark attendance for all classes|
+
+<p align="center">
+<img src = "./images/teacher1.png" width="800">
+</p>
+
+View teacher details by filtering the teacher's school sub county and searching the teacher's name from the table. This data summary can as well be exported. 
+
+<p align="center">
+<img src = "./images/teacher2.png" width="800">
+</p>
+
+###### Learners
+
+<p align="center">
+<img src = "./images/learners-nav.png" width="200">
+</p>
+
+Add details of a new learner to add them to the Onekana dashboard.The details include :- 
+
+| Item | Required | Description |
+| :------ | :------ | :------ |
+|First name | Yes | Learner's first name |
+|Middle Name | No | Learner's middle name |
+|Last Name | No | Learner's last name|
+|Gender | No | Select learner's gender. Between Male or Female |
+|Status | No | Select the learner's status. Either Not set, Out of School, Newly Enrolled, Never Enrolled or Previously Enrolled|
+|Date of Birth | No | Learner's date of birth|
+|UPI Number | No | Learner's unique UPI number |
+|Admission Number | No | Learner's unique admission number |
+|Learner's Sub County | No | The sub-county the learner originates from |
+|Learner's village | No | The village the learner originates from|
+|Learner's special needs | No | Select a special need for a learner with special needs|
+|Distance from school (Km) | No | The distance between where the learner lives and school in kilometres|
+|Guardian name | No | The name of the learner's guardian |
+|Guardian status | No | The status of the learner's guardian. Either both parents, single parent, none or not set|
+|Guardian phone | No | The phone number of the learner's guardian |
+|Guardian email | No | The email address of the learner's guardian |
+|Guardian sub county | No | The sub county the learner's guardian originates from |
+
+
+<p align="center">
+<img src = "./images/learner1.png" width="800">
+</p>
+
+View added learners details filtered and grouped by county, sub county, class, school , age etc. 
+
+<p align="center">
+<img src = "./images/learner2.png" width="800">
+</p>
+
+###### Reports
+
+<p align="center">
+<img src = "./images/reports-nav.png" width="200">
+</p>
+
+Select to view and generate either enrolment or attendance data reports. Filter and group your reports by county, sub county, class, school , age etc. You can also export and download a report summary. 
+
+<p align="center">
+<img src = "./images/report1.png" width="800">
+</p>
+
+<p align="center">
+<img src = "./images/report2.png" width="800">
+</p>
+
+The downloads page shows a list of all previously exported report summaries as well as queued reports. Click the download button to download an excel report summary. 
+
+<p align="center">
+<img src = "./images/report3.png" width="800">
+</p>
+
+###### Settings
+
+<p align="center">
+<img src = "./images/settings-nav.png" width="200">
+</p>
+
+The profile settings show details of the logged in user and allows the changing of password. 
+
+<p align="center">
+<img src = "./images/settings1.png" width="800">
+</p>
+
+<p align="center">
+<img src = "./images/settings2.png" width="800">
+</p>
+
+###### Full Screen Mode
+
+<p align="center">
+<img src = "./images/full.png" width="200">
+</p>
+
+Use fullscreen mode on the top right of the navigation menu to hide and unhide the toolbar, creating more space to view your data. 
+
+###### Logout
+
+<p align="center">
+<img src = "./images/signout.png" width="200">
+</p>
+
+Logout by clicking on the user icon in the top right of the navigation bar. 

@@ -1,17 +1,19 @@
-site_name: Digital Attendance
+site_name: Zanzibar Digital Attendance
 
 theme:
   name: material
-  logo: ./images/onekana-logo.png
-  favicon: ./images/onekana-icon.png
+  logo: ./images/icon.png
+  favicon: ./images/icon.png
   font:
     text: Prompt
   palette:
     - scheme: default
+      primary: green
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
+      primary: green
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -22,6 +24,7 @@ theme:
 
 plugins:
   - search
+  # - with-pdf
   # - mermaid2
 
 extra_css:

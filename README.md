@@ -1,1 +1,0 @@
-# Nipo User Manual

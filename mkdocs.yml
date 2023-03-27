@@ -1,19 +1,19 @@
-site_name: Zanzibar Digital Attendance
+site_name: Somalia Digital Attendance
 
 theme:
   name: material
-  logo: ./images/icon.png
-  favicon: ./images/icon.png
+  logo: ./images/icon.svg
+  favicon: ./images/favicon.svg
   font:
     text: Prompt
   palette:
     - scheme: default
-      primary: green
+      primary: light blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: green
+      primary: light blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode

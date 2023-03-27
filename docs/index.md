@@ -5,7 +5,7 @@
 ## Mobile Application
 
 ### System Overview
-Zanzibar Digital attendance is an application that allows teachers to digitally record pupils’ class attendance. The application submits the data to an online cloud storage. 
+UNICEF Somalia Digital Attendance is an application that allows teachers to digitally record pupils’ class attendance. The application submits the data to an online cloud storage. 
 
 ### Organisation of the Manual
 The user’s manual consists of five sections:
@@ -22,7 +22,7 @@ The **System Summary section** provides a general overview of the system. The su
 System Summary section provides a general overview of the system. The summary outlines the uses of the system’s hardware and software requirements, system’s configuration, user access levels and system’s behavior in case of any contingencies.
 
 ####  System Configuration
-Zanzibar Digital Attendance operates on mobile devices with Android operating system. It is compatible with **Android version 5.1** and up. The application requires an Internet connection in order to save data to the cloud database,and also has an **offline functionality** to facilitate collection of attendance data without internet connection. **Offline mode works up to 30 days.** Data saved is visualised on a web dashboard accessible via any major Internet browser. After installation on the device, Digital Attendance can be use immediately without any further configuration.
+UNICEF Somalia Digital Attendance operates on mobile devices with Android operating system. It is compatible with **Android version 5.1** and up. The application requires an Internet connection in order to save data to the cloud database,and also has an **offline functionality** to facilitate collection of attendance data without internet connection. **Offline mode works up to 30 days.** Data saved is visualised on a web dashboard accessible via any major Internet browser. After installation on the device, Digital Attendance can be use immediately without any further configuration.
 
 ####  User Access Levels
 Only teachers that have been registered into the system can use the application. For any assistance with credentials, kindly consult the headteacher in your school.
@@ -30,7 +30,7 @@ Only teachers that have been registered into the system can use the application.
 ### Getting Started
 
 #### Installation
-The Getting Started section explains how to install the Zanzibar Digital Attendance app on a device. To Download the mobile application, head to the Google Playstore on an Android device and search for “Zanzibar Digital Attendance”. To access the application on the PlayStore, click [Zanzibar Play Store](https://play.google.com/store/apps/details?id=com.chuo.zanzibar.app).
+The Getting Started section explains how to install the UNICEF Somalia Digital Attendance app on a device. To Download the mobile application, head to the Google Playstore on an Android device and search for “UNICEF Somalia Digital Attendance”. To access the application on the PlayStore, click [Somalia Play Store](https://play.google.com/store/apps/details?id=com.chuo.Somalia.app).
 
 <img src = "./images/playstore.png">
 
@@ -69,7 +69,7 @@ In the case of a forgotten password, click the Forgot Password button on the log
 
 ##### Language Translation
 
-You can translate the language for using the application to either English or Kiswahili.
+You can translate the language for using the application to either Somali or English.
 
  <p align="center">
 <img src = "./images/translate.png" width="280">
@@ -81,31 +81,22 @@ You can translate the language for using the application to either English or Ki
 
 <div class="page"/>
 
-##### My School
-
- <p align="center">
-<img src = "./images/my-school.png" width="260">
-</p>
-
-The My School tab enables a headteacher to manage their school. Here, they can **Mark Learner Attendance**, **Add / Edit Learners**, **View More Learner Details**, **Provide Reasons for Absence**, **Integrate Learners**, **Transfer and Accept Learners** and **Move / Promote Learners**. In this section you can also **Add / Edit Teachers** and **Add / Edit Classrooms** to a school.
-
-
 ##### Marking Attendance
 
  <p align="center">
 <img src = "./images/mark.png" width="350">
 </p>
 
-The attendance tab contains a list of learners with their name, UPI number / Admission number and an indicator of their gender or any special needs the learner might have. 
+The attendance tab contains a list of learners with their name, admission number and an indicator of their gender or any special needs the learner might have. 
 
 
-A **green M** badge indicates a male learner, **green F** a female learner and a **green SNE** illustrates a learner with special needs. 
+A **blue M** badge indicates a male learner, **pink F** a female learner and a **purple LWD** illustrates a learner with special needs. 
 
  <p align="center">
 <img src = "./images/attendance.png" width="280">
 </p>
 
-To mark a learner as absent, click the green circle on the right against the learner’s name to turn it to unchecked. Otherwise, not clicking the circle indicates that a learner is present. After going through the list of learners in your class, click the **‘submit’** button to complete marking attendance.
+To mark a learner as present, click the red circle on the right against the learner’s name to turn it to a checked blue tick. Otherwise, not clicking the circle indicates that a learner is absent. After going through the list of learners in your class, click the **‘submit’** button to complete marking attendance.
 
  <p align="center">
 <img src = "./images/attendance-pop.png" width="280">
@@ -116,10 +107,11 @@ To mark a learner as absent, click the green circle on the right against the lea
 ##### Classes Menu 
 
  <p align="center">
-<img src = "./images/class.png" width="240">
+<img src = "./images/class.png" width="240"><br>
+<img src = "./images/class-2.png" width="280">
 </p>
 
-On the top right, there’s a menu icon with a list of classes. A teacher can switch to a different classroom and mark attendance for that class room. You can only mark attendance for two previous dates from the current date. 
+On the top right, there’s a menu icon with a list of classes. A teacher can switch to a different classroom and mark attendance for that class room. You can only mark attendance for seven previous dates from the current date. 
 
 ##### Date Picker
 
@@ -137,7 +129,18 @@ Change the attendance date by clicking on the calendar above the list of learner
 <img src = "./images/daily-report.png" width="260">
 </p>
 
-After marking attendance, a daily attendance report provides an overview of the marked learners status for that class. The report shows a chart of present vs absent learners and these numbers segmented by gender.
+After marking attendance, a daily attendance report provides an overview of the marked learners status for that class. The report shows a chart of present vs absent learners and these numbers segmented by gender. You can provide reasons for learners absence by also clicking on the Update Reasons for Absence button.
+
+<div class="page"/>
+
+##### My School
+
+ <p align="center">
+<img src = "./images/my-school.png" width="260">
+</p>
+
+The My School tab enables a headteacher to manage their school. Here, they can **Mark Learner Attendance**, **Add / Edit Learners**, **View More Learner Details**, **Provide Reasons for Absence**, **Integrate Learners**, **Transfer and Accept Learners** and **Move / Promote Learners**. In this section you can also **Add / Edit Teachers** and **Add / Edit Classrooms** to a school.
+
 
 <div class="page"/>
 
@@ -176,10 +179,15 @@ Click on the “+” button to add a new learner. The add learner form has a lis
 
 Click on the **Edit** button to update the details of a Learner.
 
+<p align="center">
+<img src = "./images/edit.png" width="50">
+</p>
+
+
 ##### Deactivating a Learner
 
 <p align="center">
-<img src = "./images/deactivate-button.png" width="300">
+<img src = "./images/deactivate-button.png" width="50">
 </p>
 
 
@@ -197,7 +205,13 @@ You will receive a pop up that prompts for submission of a reason of deactivatio
 <img src = "./images/learners-section.png" width="300">
 </p>
 
-View an attendance chart of the current attendance status of the learner and a phone call support feature as a means to reach a guardian. Clicking on **View Learner Details** will open a page with a list of learners displaying the learner's **name**, the **UPI/Admission Number**, a link to **View Attendance Chart** and a **Phone** Guardian button.
+Clik on a learner name to view more details. You can do this in Mark Attendance section as well as the Add Learner section.
+
+<p align="center">
+<img src = "./images/learners-metadata.png" width="300">
+</p>
+
+<!-- View an attendance chart of the current attendance status of the learner and a phone call support feature as a means to reach a guardian. Clicking on **View Learner Details** will open a page with a list of learners displaying the learner's **name**, the **UPI/Admission Number**, a link to **View Attendance Chart** and a **Phone** Guardian button.
 
 <p align="center">
 <img src = "./images/view-individual-student.png" width="300">
@@ -215,15 +229,15 @@ View an attendance chart of the current attendance status of the learner and a p
 <img src = "./images/chart.png" width="300">
 </p>
 
-The weekly attendance chart shows a weekly attendance overview of an individual learner, the days present against the days of absent. The retention rate is the probability value calculated by the number of days the learner was present while the dropout rate is the probability of dropping out calculated on absenteeism.
-
+The weekly attendance chart shows a weekly attendance overview of an individual learner, the days present against the days of absent. The retention rate is the probability value calculated by the number of days the learner was present while the dropout rate is the probability of dropping out calculated on absenteeism. -->
+<!-- 
 ##### Contact Guardian
 
 <p align="center">
 <img src = "./images/call-guardian.png" width="300">
 </p>
 
-Incase of an emergency or need to follow up on a learner with their guardian, click on the **phone** icon to place a call.  
+Incase of an emergency or need to follow up on a learner with their guardian, click on the **phone** icon to place a call.   -->
 
 ##### Provide Reason For Absence
 
@@ -238,7 +252,25 @@ To update a learner's reason for absence, click on the reasons for absence secti
 </p>
 
 <p align="center">
-<img src = "./images/reasons-3.png" width="300">
+<img src = "./images/reasons-3.png" width="50">
+</p>
+
+<p align="center">
+<img src = "./images/reasons-4.png" width="300">
+</p>
+
+<p align="center">
+<img src = "./images/reasons-5.png" width="300">
+</p>
+
+##### Contact Guardian
+
+<p align="center">
+<img src = "./images/call.png" width="50">
+</p>
+
+<p align="center">
+<img src = "./images/call-guardian.png" width="300">
 </p>
 
 ##### Move Learners
@@ -259,7 +291,7 @@ The Move Learners tab enables moving of learners from one class to another. Sele
 
 <div class="page"/>
 
-##### Promote Learners
+<!-- ##### Promote Learners
 
 <p align="center">
 <img src = "./images/promote.png" width="300">
@@ -315,7 +347,7 @@ Learner transferred to your school can be admitted via the accept learners secti
 
 <p align="center">
 <img src = "./images/accept-2.png" width="300">
-</p>
+</p> -->
 
 ##### Reactivate Learners
 
@@ -327,6 +359,10 @@ Learners who have been deactivated from a school can be reactivated incase they 
 
 <p align="center">
 <img src = "./images/reactivate-2.png" width="300">
+</p>
+
+<p align="center">
+<img src = "./images/reactivate-4.png" width="50">
 </p>
 
 <p align="center">
@@ -347,11 +383,6 @@ As a headteacher / teacher admin, add a new teacher to your school and assign a 
 <p align="center">
 <img src = "./images/add-teacher-2.png" width="300">
 </p>
-
-<p align="center">
-<img src = "./images/add-teacher.png" width="300">
-</p>
-
 
 Fill the teacher details and submit the information by clicking the **Add Teacher** button.
 
@@ -424,12 +455,20 @@ Deactivate a class from the system by clicking on the **Deactivate** button.You 
 <img src = "./images/reports.png" width="300">
 </p>
 
-The Reports tab allows the head teacher to view an aggregated list of student attendance perfomance per class, based on gender. Head-teacher's can also view on a daily basis a list of often absent students from every class on a certain date and provide a reason for absence for missing school.
-
-##### Individual Learner Attendance Report
+The Reports tab allows the head teacher to view either attendance reports by class or individual learner reports.
+##### Attendance Report by Class
 
 <p align="center">
-<img src = "./images/attendance-list.png" width="300">
+<img src = "./images/reports-class.png" width="300">
+</p>
+
+A summary of each classes attendance report that shows the total number of present and absent learners per class. 
+
+
+##### Attendance Report by Learner
+
+<p align="center">
+<img src = "./images/reports-learner.png" width="300">
 </p>
 
 A summary of each individual learner's attendance report that shows the total number of present and absent times for each learner within a date range and the percentage of presenteeism. 
@@ -491,7 +530,7 @@ This enables a teacher to manually sync to the latest learners list in the schoo
 </p>
 
 Access a list of frequently asked questions and
-a user manual with more information on how to operate the Zanzibar Digital Attendance System.
+a user manual with more information on how to operate the UNICEF Somalia Digital Attendance System.
 
 <div class="page"/>
 
@@ -503,16 +542,12 @@ a user manual with more information on how to operate the Zanzibar Digital Atten
 
 Click on the **Contact Us** button to get a form to submit any issues/queries and support questions and our team will respond promptly. 
 
-<p align="center">
-<img src = "./images/contact-support.png" width="300">
-</p>
-
 <div class="page"/>
 
 ###### Download User Manual
 
 <p align="center">
-<img src = "./images/contact-us.png" width="300">
+<img src = "./images/download-manual.png" width="300">
 </p>
 
 Download a PDF version of this user manual by clicking on the **Download User Manual** button. 
@@ -535,7 +570,7 @@ To log out from the application, go to the User Profile tab and click on the Log
 <img src = "./images/login-web.png" width="800">
 </p>
 
-Zanzibar Digital Attendance's dashboard is hosted at [Zanzibar Dashboard](https://tzdash.request.africa/). Enter your login credentials to access the dashboard.
+UNICEF Somalia Digital Attendance's dashboard is hosted at [Somalia Dashboard](https://tzdash.request.africa/). Enter your login credentials to access the dashboard.
 
 ###### Forgot Password
 
@@ -612,7 +647,7 @@ View current schools details. Filter by sub county to search for your school. Yo
 <img src = "./images/classes-nav.png" width="200">
 </p>
 
-Add details of a new class to add it to the Zanzibar dashboard.The details include :- 
+Add details of a new class to add it to the Somalia dashboard.The details include :- 
 
 | Item | Required | Description |
 | :------ | :------ | :------ |
@@ -642,7 +677,7 @@ You can also delete a class.
 <img src = "./images/teachers-nav.png" width="200">
 </p>
 
-Add details of a new teacher to add them to the Zanzibar dashboard.The details include :- 
+Add details of a new teacher to add them to the Somalia dashboard.The details include :- 
 
 | Item | Required | Description |
 | :------ | :------ | :------ |
@@ -680,7 +715,7 @@ Reset a school account password via the teachers section.
 <img src = "./images/learners-nav.png" width="200">
 </p>
 
-Add details of a new learner to add them to the Zanzibar dashboard.The details include :- 
+Add details of a new learner to add them to the Somalia dashboard.The details include :- 
 
 | Item | Required | Description |
 | :------ | :------ | :------ |
@@ -693,7 +728,7 @@ Add details of a new learner to add them to the Zanzibar dashboard.The details i
 |Admission Number | No | Learner's unique admission number |
 |Learner's Region | No | The region the learner originates from |
 |Learner's District | No | The district the learner originates from|
-|Learner's Shehiya | No | The shehiya the learner originates from |
+|Learner's Village | No | The village the learner originates from |
 |Learner's Street Name | No | The street name the learner originates from |
 |Learner's House Number | No | The house number the learner originates from |
 |Learner's special needs | No | Select a special need for a learner with special needs|
@@ -724,7 +759,7 @@ View added learners details filtered and grouped by county, sub county, class, s
 <img src = "./images/reports-nav.png" width="200">
 </p>
 
-Select to view and generate either enrolment or attendance data reports. Filter and group your reports by region, district, shehiya, class, school , age and status. You can also export and download a report summary. 
+Select to view and generate either enrolment or attendance data reports. Filter and group your reports by region, district, village, class, school , age and status. You can also export and download a report summary. 
 
 <p align="center">
 <img src = "./images/report1.png" width="800">
@@ -734,10 +769,20 @@ Select to view and generate either enrolment or attendance data reports. Filter 
 <img src = "./images/report2.png" width="800">
 </p>
 
-The downloads page shows a list of all previously exported report summaries as well as queued reports. Click the download button to download an excel report summary. 
+Select to view and generate either reason for absence or reason for deletion reports.
 
 <p align="center">
 <img src = "./images/report3.png" width="800">
+</p>
+
+<p align="center">
+<img src = "./images/report4.png" width="800">
+</p>
+
+The downloads page shows a list of all previously exported report summaries as well as queued reports. Click the download button to download an excel report summary. 
+
+<p align="center">
+<img src = "./images/downloads.png" width="800">
 </p>
 
 ###### Imports
